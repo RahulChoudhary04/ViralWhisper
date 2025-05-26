@@ -71,7 +71,7 @@ All while you **focus on shipping** 🚢
 
 ## 🔧 Tech Stack
 
-`Python`, `Reddit API (PRAW)`, `Ollama (LLMs)`, `CSV`, `ConfigParser`, `Logging`
+`Python`, `Reddit API (PRAW) `, `Ollama (LLMs)`, `CSV`, `ConfigParser`, `Logging`
 
 ---
 
