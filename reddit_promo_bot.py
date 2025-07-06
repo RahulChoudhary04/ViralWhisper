@@ -116,7 +116,7 @@ def get_relevant_posts(reddit, limit=5):
         "kickstarter", "boardgamedesign", "indiegames"
     ]
     
-    # Choose a random subreddit from the list to avoid spamming any single one
+    # Choose a random subreddit from the list to avoid spamming the single one
     subreddit_name = random.choice(relevant_subreddits)
     logger.info(f"Searching in r/{subreddit_name}")
     
